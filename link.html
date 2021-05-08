@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>リンク</title>
+    </head>
+    <body>
+        <script>
+            linktext = ""
+            link = [
+                "kyouiku",
+                "mainsite",
+                "mainsite/alflash.html",
+                "mainsite/background.html",
+                "mainsite/backgroundo.html",
+                "mainsite/dev.html",
+                "mainsite/jyannkenn.html",
+                "mainsite/letsjyankenn.html",
+                "mainsite/makemessage_text.html",
+                "mainsite/makemessage_text.html",
+                "mainsite/message_text.html",
+                "mainsite/omikuji100.html",
+                "mainsite/omikuji1000.html",
+                "mainsite/omikuji10000.html",
+                "mainsite/omikuji100000.html",
+                "mainsite/omikuji1000000.html",
+                "mainsite/omikuji10000000.html",
+                "mainsite/omikujiflash.html",
+                "mainsite/omikujimenu.html",
+                "mainsite/rra.html",
+                "mainsite/rere.html",
+                "mainsite/sinwave.html",
+                "mainsite/sort.html",
+                "mainsite/warning.html",
+                "Tysp/tysp.html"
+            ]
+            for(i=0;i<link.length;i++){
+                linktext+=`<button class='link' onclick='location.href="../`+link[i]+`"'>site `+[i+1]+`</button><br>\n`
+            }
+            document.write(linktext)
+        </script>
+    </body>
+</html>
+<script>
+    if (location.search==""){
+    }
+    else {
+        Goto = Array.from(location.search);
+        Goto.shift();
+        GoTo = Goto.join("");
+        Goto = decodeURIComponent(GoTo);
+        location.href = Goto
+    }
+</script>
