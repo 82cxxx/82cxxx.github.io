@@ -7,7 +7,6 @@ https://haruki1234.github.io/mainsite/background.html
 https://haruki1234.github.io/mainsite/background3.html
 https://haruki1234.github.io/mainsite/backgroundo.html
 https://haruki1234.github.io/mainsite/base64.html
-https://haruki1234.github.io/mainsite/dev.html
 https://haruki1234.github.io/mainsite/jyannkenn.html
 https://haruki1234.github.io/mainsite/letsjyankenn.html
 https://haruki1234.github.io/mainsite/makemessage_text.html
