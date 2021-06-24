@@ -20,3 +20,4 @@ https://haruki1234.github.io/mainsite/omikuji10000.html
 https://haruki1234.github.io/mainsite/omikuji100000.html
 https://haruki1234.github.io/mainsite/omikujiflash.html
 https://github.com/haruki1234/janken/index.html
+https://haruki1234.github.io/mainsite/discord-bot.html
