@@ -4,6 +4,7 @@ https://haruki1234.github.io/mainsite/menu.html
 https://haruki1234.github.io/mainsite/index.html
 https://haruki1234.github.io/window/
 https://haruki1234.github.io/jsconsole/
+https://haruki1234.github.io/typing/
 https://haruki1234.github.io/mainsite/alflash.html
 https://haruki1234.github.io/mainsite/background.html
 https://haruki1234.github.io/mainsite/background3.html
