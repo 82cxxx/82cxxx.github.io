@@ -1,4 +1,5 @@
 https://haruki1234.github.io/mainsite/index.html?index
+https://haruki1234.github.io/mainsite/aboutme.html
 https://haruki1234.github.io/mainsite/my.html
 https://haruki1234.github.io/mainsite/menu.html
 https://haruki1234.github.io/mainsite/index.html
